@@ -1,0 +1,20 @@
+# Gradle
+.gradle/
+build/
+
+# Kotlin 캐시
+.kotlin/
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# 실행 시 생성되는 폴더
+run/
+
+# OS 및 로그
+.DS_Store
+*.log
