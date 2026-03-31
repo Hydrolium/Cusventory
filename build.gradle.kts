@@ -4,7 +4,7 @@ plugins {
     id("xyz.jpenilla.run-paper") version "2.3.1"
 }
 
-group = "io.github.jaknndiius"
+group = "io.github.hydrolium"
 version = "1.0-SNAPSHOT"
 
 repositories {
