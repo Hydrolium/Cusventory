@@ -1,4 +1,4 @@
-package io.github.jaknndiius.cusventory.inventory.data
+package io.github.hydrolium.cusventory.inventory.data
 
 /**
  * Cusventory에 대한 정보가 담긴 **읽기 전용** 인터페이스입니다.

@@ -1,4 +1,4 @@
-package io.github.jaknndiius.cusventory.inventory
+package io.github.hydrolium.cusventory.inventory
 
 /**
  * [Cusventory]들을 페이지 번호로 묶어 관리합니다.

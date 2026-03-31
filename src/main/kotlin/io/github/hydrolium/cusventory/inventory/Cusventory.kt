@@ -1,10 +1,10 @@
-package io.github.jaknndiius.cusventory.inventory
+package io.github.hydrolium.cusventory.inventory
 
-import io.github.jaknndiius.cusventory.inventory.data.CusventoryInfo
-import io.github.jaknndiius.cusventory.inventory.data.InventorySize
-import io.github.jaknndiius.cusventory.inventory.data.PlayerInventorySetting
-import io.github.jaknndiius.cusventory.inventory.data.SlotInfo
-import io.github.jaknndiius.cusventory.inventory.data.SlotSetting
+import io.github.hydrolium.cusventory.inventory.data.CusventoryInfo
+import io.github.hydrolium.cusventory.inventory.data.InventorySize
+import io.github.hydrolium.cusventory.inventory.data.PlayerInventorySetting
+import io.github.hydrolium.cusventory.inventory.data.SlotInfo
+import io.github.hydrolium.cusventory.inventory.data.SlotSetting
 import net.kyori.adventure.text.Component
 import org.bukkit.Bukkit
 import org.bukkit.Material

@@ -1,4 +1,4 @@
-package io.github.jaknndiius.cusventory.inventory.data
+package io.github.hydrolium.cusventory.inventory.data
 
 import net.kyori.adventure.sound.Sound
 import org.bukkit.event.inventory.InventoryClickEvent

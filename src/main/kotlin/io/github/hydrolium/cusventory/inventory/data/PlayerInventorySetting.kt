@@ -1,4 +1,4 @@
-package io.github.jaknndiius.cusventory.inventory.data
+package io.github.hydrolium.cusventory.inventory.data
 
 import org.bukkit.event.inventory.InventoryClickEvent
 

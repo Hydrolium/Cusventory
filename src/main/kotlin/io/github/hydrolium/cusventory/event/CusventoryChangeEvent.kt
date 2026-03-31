@@ -1,6 +1,6 @@
-package io.github.jaknndiius.cusventory.event
+package io.github.hydrolium.cusventory.event
 
-import io.github.jaknndiius.cusventory.inventory.Cusventory
+import io.github.hydrolium.cusventory.inventory.Cusventory
 import org.bukkit.event.EventHandler
 import org.bukkit.event.Listener
 import org.bukkit.event.inventory.InventoryClickEvent

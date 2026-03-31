@@ -1,4 +1,4 @@
 name: CusventoryPlugin
 version: '1.0-SNAPSHOT'
-main: io.github.jaknndiius.cusventory.CusventoryPlugin
+main: io.github.hydrolium.cusventory.CusventoryPlugin
 api-version: '1.21'

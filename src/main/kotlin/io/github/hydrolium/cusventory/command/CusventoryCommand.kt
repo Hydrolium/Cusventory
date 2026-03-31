@@ -1,12 +1,12 @@
-package io.github.jaknndiius.cusventory.command
+package io.github.hydrolium.cusventory.command
 
 import com.mojang.brigadier.Command
 import com.mojang.brigadier.builder.LiteralArgumentBuilder
 import com.mojang.brigadier.tree.LiteralCommandNode
-import io.github.jaknndiius.cusventory.inventory.Cusventory
-import io.github.jaknndiius.cusventory.inventory.data.InventorySize
-import io.github.jaknndiius.cusventory.inventory.CusventoryPager
-import io.github.jaknndiius.cusventory.inventory.modifyMeta
+import io.github.hydrolium.cusventory.inventory.Cusventory
+import io.github.hydrolium.cusventory.inventory.data.InventorySize
+import io.github.hydrolium.cusventory.inventory.CusventoryPager
+import io.github.hydrolium.cusventory.inventory.modifyMeta
 import io.papermc.paper.command.brigadier.CommandSourceStack
 import io.papermc.paper.command.brigadier.Commands
 import net.kyori.adventure.sound.Sound
@@ -41,7 +41,6 @@ object CusventoryCommand {
                             clickSound = Sound.sound(org.bukkit.Sound.UI_BUTTON_CLICK, Sound.Source.MASTER, 1.0f, 1.0f)
                             clickEvent = { event ->
                                 val holder = event.inventory.holder as Cusventory
-
                                 holder.apply {
                                     slot(10) {
                                         item = ItemStack(Material.DIAMOND)

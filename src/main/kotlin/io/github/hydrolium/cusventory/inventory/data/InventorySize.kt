@@ -1,4 +1,4 @@
-package io.github.jaknndiius.cusventory.inventory.data
+package io.github.hydrolium.cusventory.inventory.data
 
 /**
  * Bukkit/Minecraft 인벤토리의 크기를 줄(line) 단위로 정의합니다.

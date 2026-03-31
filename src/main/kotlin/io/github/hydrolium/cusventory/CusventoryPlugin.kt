@@ -1,7 +1,7 @@
-package io.github.jaknndiius.cusventory
+package io.github.hydrolium.cusventory
 
-import io.github.jaknndiius.cusventory.command.CusventoryCommand
-import io.github.jaknndiius.cusventory.event.CusventoryChangeEvent
+import io.github.hydrolium.cusventory.command.CusventoryCommand
+import io.github.hydrolium.cusventory.event.CusventoryChangeEvent
 import io.papermc.paper.plugin.lifecycle.event.types.LifecycleEvents
 import org.bukkit.plugin.java.JavaPlugin
 

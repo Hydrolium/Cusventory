@@ -1,4 +1,4 @@
-package io.github.jaknndiius.cusventory.inventory
+package io.github.hydrolium.cusventory.inventory
 
 import org.bukkit.inventory.ItemStack
 import org.bukkit.inventory.meta.ItemMeta
